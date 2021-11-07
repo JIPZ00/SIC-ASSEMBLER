@@ -1,0 +1,67 @@
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\Practica02SIC.csprojAssemblyReference.cache
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\bin\Debug\Antlr4.Runtime.dll
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\bin\Debug\Antlr4.Runtime.xml
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\sicestParser.cs
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\sicestListener.cs
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\sicestBaseListener.cs
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\sicestVisitor.cs
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\sicestBaseVisitor.cs
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\Practica02SIC.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\Practica02SIC.Form1.resources
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\Practica02SIC.Properties.Resources.resources
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\Practica02SIC.csproj.GenerateResource.cache
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\Practica02SIC.csproj.CoreCompileInputs.cache
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\Practica02SIC.csproj.CopyComplete
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\sicestLexer.cs
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\Practica02SIC.Form_Cargador.resources
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\sicextLexer.cs
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\sicextParser.cs
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\sicextListener.cs
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\sicextBaseListener.cs
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\sicextVisitor.cs
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\sicextBaseVisitor.cs
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\bin\Debug\SicEST-EXT.exe.config
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\bin\Debug\SicEST-EXT.exe
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\bin\Debug\SicEST-EXT.pdb
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\SicEST-EXT.exe
+C:\Users\Genghis\source\repos\Practica02SIC\Practica02SIC\obj\Debug\SicEST-EXT.pdb
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\obj\Debug\Practica02SIC.csprojAssemblyReference.cache
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\obj\Debug\sicestLexer.cs
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\obj\Debug\sicestParser.cs
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\obj\Debug\sicestListener.cs
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\obj\Debug\sicestBaseListener.cs
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\obj\Debug\sicestVisitor.cs
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\obj\Debug\sicestBaseVisitor.cs
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\obj\Debug\Practica02SIC.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\obj\Debug\Practica02SIC.Form1.resources
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\obj\Debug\Practica02SIC.Properties.Resources.resources
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\obj\Debug\Practica02SIC.csproj.GenerateResource.cache
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\obj\Debug\Practica02SIC.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\obj\Debug\SicEST-EXT.exe
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\obj\Debug\SicEST-EXT.pdb
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\bin\Debug\SicEST-EXT.exe.config
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\bin\Debug\SicEST-EXT.exe
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\bin\Debug\SicEST-EXT.pdb
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\bin\Debug\Antlr4.Runtime.dll
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\bin\Debug\Antlr4.Runtime.xml
+C:\Users\jesus\Desktop\Practica02SIC\Practica02SIC\obj\Debug\Practica02SIC.csproj.CopyComplete
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\Practica02SIC.csprojAssemblyReference.cache
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\SicEST-EXT.exe
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\SicEST-EXT.pdb
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\bin\Debug\SicEST-EXT.exe.config
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\bin\Debug\SicEST-EXT.exe
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\bin\Debug\SicEST-EXT.pdb
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\bin\Debug\Antlr4.Runtime.dll
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\bin\Debug\Antlr4.Runtime.xml
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\sicestLexer.cs
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\sicestParser.cs
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\sicestListener.cs
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\sicestBaseListener.cs
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\sicestVisitor.cs
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\sicestBaseVisitor.cs
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\Practica02SIC.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\Practica02SIC.Form1.resources
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\Practica02SIC.Properties.Resources.resources
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\Practica02SIC.csproj.GenerateResource.cache
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\Practica02SIC.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\Practica02SIC.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\sicestLexer.cs
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\sicestParser.cs
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\sicestListener.cs
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\sicestBaseListener.cs
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\sicestVisitor.cs
+C:\Users\jesus\Desktop\Práctica 06 - Símbolos y Expresiones\Practica02SIC\obj\Debug\sicestBaseVisitor.cs
